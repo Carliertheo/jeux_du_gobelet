@@ -1,0 +1,16 @@
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\jeux_du_gobelet.exe
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\jeux_du_gobelet.deps.json
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\jeux_du_gobelet.runtimeconfig.json
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\jeux_du_gobelet.runtimeconfig.dev.json
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\jeux_du_gobelet.dll
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\ref\jeux_du_gobelet.dll
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\bin\Debug\net5.0\jeux_du_gobelet.pdb
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.csprojAssemblyReference.cache
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.AssemblyInfoInputs.cache
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.AssemblyInfo.cs
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.dll
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\ref\jeux_du_gobelet.dll
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.pdb
+C:\Users\Theo\Bureau\git\jeux_du_gobelet\obj\Debug\net5.0\jeux_du_gobelet.genruntimeconfig.cache
