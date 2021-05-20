@@ -1,7 +1,7 @@
 ﻿/*
 Programme        : Program.cs
 Date de création : 05/04/2021 TC 
-Description      : Programme pour le jeux du gobelet TEST git via vscode
+Description      : Programme pour le jeux du gobelet TEST git 
 Dernière modif   : 05/04/2021 TC 
 */
 
